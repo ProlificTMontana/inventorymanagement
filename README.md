@@ -46,8 +46,8 @@ Installation and Setup
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/YOUR_USERNAME/stock-management-system.git
-   cd stock-management-system 
+   git clone https://github.com/ProlificTMontana/inventorymanagement.git
+   cd inventorymanagement
    
 2. Ensure you have Python installed (version 3.6 or higher recommended).
 
