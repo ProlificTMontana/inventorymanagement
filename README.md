@@ -55,14 +55,15 @@ Installation and Setup
 
   ```bash
    python src/main.py
-   
+   ```
 4. Initial Login:
-
+```
     The default administrator account is:
         Username: admin
         Password: admin123
 
     You can modify or add users by editing the data/users.csv file.
+```
 
 Usage
 
